@@ -20,7 +20,7 @@ def is_enabled(value, default):
 SESSION = environ.get('SESSION', 'cinemaworldcenter_search')   # Session name for the bot
 API_ID = int(environ.get('API_ID', '29579120')) # API ID from my.telegram.org
 API_HASH = environ.get('API_HASH', 'f5cd7a6212e05cf54b3c360eb81af111')  # API Hash from my.telegram.org
-BOT_TOKEN = environ.get('BOT_TOKEN', "8044464502:AAHBd0MHGmEttYS-lu4ZQwClLom1lLjiOI0")    # Bot token from @BotFather
+BOT_TOKEN = environ.get('BOT_TOKEN', "8387375708:AAGCB952OwrFqpIs_vbjcE2LTmAOIeTjins")    # Bot token from @BotFather
 
 # ============================
 # Bot Settings Configuration
