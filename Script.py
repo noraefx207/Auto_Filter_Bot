@@ -1,5 +1,5 @@
 class script(object):
-    START_TXT = """<b><u>🚩 ᴊᴀɪ ꜱʜʀɪ ʀᴀᴍ 🚩</u></b>
+    START_TXT = """<b><u>Welcome to cinema center</u></b>
 
 <b>ʜᴇʏ {}, {}</b>
 
@@ -7,7 +7,7 @@ class script(object):
 """
 
 
-    GSTART_TXT = """<b>🚩 ᴊᴀɪ ꜱʜʀɪ ʀᴀᴍ 🚩</b>
+    GSTART_TXT = """<b>Welcome to cinema center</b>
 
 <b>ʜᴇʏ {},</b>
 
